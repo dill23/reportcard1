@@ -1,3 +1,4 @@
+
 from replit import db
 
 class report_card():
